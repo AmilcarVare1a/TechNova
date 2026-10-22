@@ -1,0 +1,3 @@
+Amilcar Samuel Varela García
+
+Mi parte en el  proyecto es poder crear el menú, también funciones para que el código se pueda ver  ordenado y que no se muestren demasiadas líneas en el código principal, también poder hacer el flujograma con mis compañeros de grupo.g
