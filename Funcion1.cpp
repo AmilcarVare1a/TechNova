@@ -2,7 +2,7 @@
 using namespace std;
 void menu() {
     int opcion;
-    cout << "\n===== MENU PRINCIPAL =====" <<endl;
+    cout << "===== MENU PRINCIPAL =====" <<endl;
     cout << "1. Celulares" << endl;
     cout << "2. Laptops" << endl;
     cout << "3. Televisores" << endl;
