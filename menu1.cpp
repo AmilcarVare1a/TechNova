@@ -1,7 +1,25 @@
 #include <iostream>
 #include <string>
+#include <thread>
+#include <chrono>
 #include "Funciones.h"
 using namespace std; 
+
+
+
+
+void escribirlento(string mensaje){
+
+    for (int i = 0; i < mensaje.length(); i++){
+
+         cout << mensaje[i] << flush;
+          this_thread::sleep_for(chrono::milliseconds(50));
+
+    }
+
+    cout << endl;
+}
+
 
 int main(){
 
@@ -26,7 +44,7 @@ int main(){
 
     if (usuario == "Nova" && contrasena == "2026") {
 
-        cout << "Acceso autorizado. Bienvenido " << usuario << endl;
+        escribirlento("Acceso autorizado. Bienvenido " + usuario);
 
 
 
@@ -87,7 +105,7 @@ int main(){
                     break;
 
             case 9:
-                    cout << "Gracias por utilizar TECHNOVA." << endl;
+                    escribirlento("Gracias por utilizar TECHNOVA.");
                     break;
 
     } while (opcion != 9);
@@ -95,9 +113,8 @@ int main(){
 
     }else{
 
-        cout << "Usuario o contrasena incorrectos." << endl;
-        cout << "Acceso denegado." << endl;
-
+        escribirlento("Usuario o contrasena incorrectos.");
+        escribirlento("Acceso denegado.");
     }
 
 
