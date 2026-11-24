@@ -2,7 +2,7 @@
 using namespace std;
 void telefonos() {
     int opcion;
-    cout << "\n=====MARCAS DE CELULARES =====" <<endl;
+    cout << "=====MARCAS DE CELULARES =====" <<endl;
     cout << "1. Apple" << endl;
     cout << "2. Samsung" << endl;
     cout << "3. Xiaomi" << endl;
