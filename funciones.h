@@ -8,5 +8,7 @@ void buscarProducto();
 void actualizarInventario();
 void registrarProducto();
 void reportesVentas();
+void verTodosProductos();
+
 
 #endif
