@@ -1,0 +1,5 @@
+104|Samsung Galaxy A55|2|350|700
+104|Samsung Galaxy A55|1|350|350
+104|Samsung Galaxy A55|1|350|350
+109|Samsung Galaxy S25|1|999|999
+109|Samsung Galaxy S25|1|999|999
