@@ -2,7 +2,7 @@
 using namespace std;
 void laptops() {
     int opcion;
-    cout << "\n=====MARCAS DE LAPTOPS =====" <<endl;
+    cout << "=====MARCAS DE LAPTOPS =====" <<endl;
     cout << "1. Dell" << endl;
     cout << "2. HP" << endl;
     cout << "3. Apple" << endl;
