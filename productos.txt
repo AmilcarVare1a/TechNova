@@ -1,0 +1,33 @@
+101|Celulares|Apple iPhone 13|450
+102|Celulares|Apple iPhone 15|700
+103|Celulares|Samsung Galaxy A15|180
+104|Celulares|Samsung Galaxy A55|350
+105|Celulares|Xiaomi Redmi Note 13|190
+106|Celulares|Xiaomi Redmi Note 13 Pro|280
+107|Celulares|Huawei Nova 12|300
+108|Celulares|Huawei P60 Pro|650
+201|Laptops|Dell Inspiron 15|700
+202|Laptops|Dell Latitude 5440|950
+203|Laptops|HP 15 Intel Core i5|650
+204|Laptops|HP Pavilion 14|750
+205|Laptops|Apple MacBook Air M2|1100
+206|Laptops|Apple MacBook Pro M3|1800
+207|Laptops|Asus VivoBook 15|680
+208|Laptops|Asus TUF Gaming F15|1100
+301|Televisores|Sony Bravia 43 pulgadas|450
+302|Televisores|Sony Bravia 55 pulgadas|750
+303|Televisores|LG Smart TV 43 pulgadas|350
+304|Televisores|LG UHD 55 pulgadas|550
+305|Televisores|Samsung Crystal UHD 50 pulgadas|450
+306|Televisores|Samsung QLED 55 pulgadas|850
+307|Televisores|TCL Smart TV 50 pulgadas|400
+308|Televisores|TCL QLED 65 pulgadas|700
+401|Audifonos|Sony WH-CH520|50
+402|Audifonos|Sony WH-1000XM5|300
+403|Audifonos|Bose QuietComfort|250
+404|Audifonos|Bose QuietComfort Ultra|430
+405|Audifonos|Apple AirPods 3|160
+406|Audifonos|Apple AirPods Pro 2|250
+407|Audifonos|JBL Tune 520BT|60
+408|Audifonos|JBL Live 660NC|130
+109|Celulares|Samsung Galaxy S25|999
